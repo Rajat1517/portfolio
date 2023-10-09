@@ -1,0 +1,12 @@
+.rating-logo{
+    width: 53.8px;
+    display: inline-block;
+    float: left;
+    border-radius: 5px;
+}
+
+.anchor-rating {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
